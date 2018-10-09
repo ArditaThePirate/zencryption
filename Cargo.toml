@@ -1,0 +1,9 @@
+[package]
+name = "zencryption"
+version = "0.1.0"
+authors = ["SenecaTheElder <ars9he@virginia.edu>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+rand = "0.5"
+bcrypt = "0.2"
